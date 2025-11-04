@@ -1,0 +1,22 @@
+/* Muda a cor de fundo de toda a página (do <body>) */
+body {
+    background-color: #f8f9fa; /* Um cinza muito claro, padrão do Bootstrap */
+}
+
+/* Centraliza os títulos da página e dá uma "respirada" neles */
+.display-4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.lead {
+    margin-bottom: 30px;
+}
+
+/* Um pequeno truque para os ícones dentro dos botões redondos 
+   (como o "+") ficarem perfeitamente centralizados.
+*/
+.btn.rounded-circle i {
+    position: relative;
+    top: 1px; /* Ajuste fino de pixel */
+}

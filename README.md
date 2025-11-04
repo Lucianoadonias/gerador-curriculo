@@ -25,7 +25,7 @@ Aplicação web para gerar currículos de forma dinâmica, utilizando:
 -   Experiências Profissionais (campos dinâmicos)
 -   Habilidades
 -   Resumo Profissional
--   Referências
+-   Referências (campos dinâmicos)
 
 ## Tecnologias
 
