@@ -35,3 +35,4 @@ Aplicação web para gerar currículos de forma dinâmica, utilizando:
 -   Bootstrap 5
 -   JavaScript / jQuery
 -   Git e GitHub
+-   biblioteca DOMpdf
