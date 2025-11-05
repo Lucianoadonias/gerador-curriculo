@@ -13,7 +13,7 @@ Aplicação web para gerar currículos de forma dinâmica, utilizando:
 1. O usuário preenche seus dados no formulário.
 2. Pode adicionar experiências, formações e referências dinamicamente.
 3. Ao clicar em "Gerar Currículo", o PHP formata os dados.
-4. O currículo pode ser impresso ou baixado com `window.print()`.
+4. O currículo pode ser visualizado e baixado em pdf.
 
 ## Campos do Formulário
 
